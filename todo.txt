@@ -1,4 +1,6 @@
-?Kadir
-HALLO wie gehts
-?Boss
-Macher
+?Kadir:
+HALLO wie gehts,
+HAllo 2
+?Boss:
+Macher,
+true
